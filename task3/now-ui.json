@@ -1,0 +1,16 @@
+{
+	"components": {
+		"x-551965-card-list": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": [
+					"global.core"
+				],
+				"label": "Card List",
+				"icon": "address-card-outline",
+				"description": "Card list component"
+			}
+		}
+	},
+	"scopeName": "x_551965_test_ca_0"
+}

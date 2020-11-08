@@ -1,0 +1,16 @@
+{
+	"components": {
+		"x-551965-hello-world": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": [
+					"global.core"
+				],
+				"label": "My Stock Tracker",
+				"icon": "chat-fill",
+				"description": "Stock Tracking component"
+			}
+		}
+	},
+	"scopeName": "x_551965_test_he_1"
+}
